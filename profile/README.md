@@ -1,5 +1,11 @@
-## Hi there 👋
+## Welcome
 
+Welcome to the Leeds Rust Belt, the home of rust coding in the West Yorkshire area (and beyond!)
+The repositories you find here will be various open sourced pieces of work from small code snippets open to comment and critique as we all learn new things in the labguage, through to larger projects that we undertake together.
+
+### The Group
+
+We aim to be a friendly, inviting and fully incusive group of rust enthusiasts. You can be a beginner through to a seasoned expert. We do not care what background you have, what sexual orientation you are, what gender you are, which religion you follow, what skin colour you have or indeed anything that makes you uniquely you. We just ask that you have at least a passing interest in the rust programming language.
 <!--
 
 **Here are some ideas to get you started:**
