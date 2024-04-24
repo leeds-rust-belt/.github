@@ -5,7 +5,7 @@ The repositories you find here will be various open sourced pieces of work from 
 
 ### The Group
 
-We aim to be a friendly, inviting and fully incusive group of rust enthusiasts. You can be a beginner through to a seasoned expert. We do not care what background you have, what sexual orientation you are, what gender you are, which religion you follow, what skin colour you have or indeed anything that makes you uniquely you. We just ask that you have at least a passing interest in the rust programming language.
+We aim to be a friendly, inviting and fully incusive group of rust enthusiasts. You can be a beginner through to a seasoned expert. We do not care what background you have, what sexual orientation you are, what gender you are, which religion you follow, what skin colour you have or indeed anything that makes you uniquely you. We just ask that you have at least a passing interest in the rust programming language and treat each other in the way you would wish to be treated yourselves. :) 
 <!--
 
 **Here are some ideas to get you started:**
